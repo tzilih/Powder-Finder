@@ -1,0 +1,32 @@
+{
+  "name": "powder-finder",
+  "version": "0.0.1",
+  "description": "An app for finding fresh snow ",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "mongoose": "^4.6.5",
+    "node-schedule": "^1.2.0",
+    "pug": "^2.0.0-beta6",
+    "request": "^2.78.0"
+  },
+  "engines": {
+    "node": "6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzilih/Powder-Finder.git"
+  },
+  "author": "Tzili Hod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzilih/Powder-Finder/issues"
+  },
+  "homepage": "https://github.com/tzilih/Powder-Finder#readme"
+}

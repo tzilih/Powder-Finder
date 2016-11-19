@@ -1,0 +1,69 @@
+body {
+    padding-top: 47px;
+    margin: 4px;
+    padding-bottom: 20px;
+}
+html, body, #map {
+    height: 100%;
+}
+
+table {
+  width: 100px;
+  max-height: 150px;
+  display: block;
+  overflow-y: auto;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+#resort-url {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  
+}
+
+#hotel-button {
+  margin-top: 0px;
+}
+
+nav {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+}
+
+#header {
+  float: right;
+}
+
+#hotel_url {
+  display: block;
+  max-width: 220px;
+  overflow: auto;
+}
+
+#hotel-list {
+  max-height: 200px;
+  display: block;
+  overflow: auto;
+}
+
+.navbar, .container {
+  width: 100%;
+  background-color: white;
+  padding-left: 0px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#logo {
+  padding-bottom: 5px;
+  height: 30px;
+}
+
+.navbar-right {
+  margin-right: 5px;
+  padding-right: 10px;
+}
